@@ -58,6 +58,10 @@ print(set1.pop())
 
 # metode pop elemen
 set1 = {1, 2, 3, 4, 5}
+print(set1.pop())
+
+# random choices
+set1 = {1, 2, 3, 4, 5}
 random_set1 = random.choice(list(set1))  # import random
 print(random_set1)
 
